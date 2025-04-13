@@ -1,0 +1,5 @@
+click
+faker
+Flask
+numpy
+pandas
