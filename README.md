@@ -1,4 +1,4 @@
-This configuration you've posted appears to be the **docker-compose.yml** file for running an **Airflow cluster with CeleryExecutor**, Redis, and PostgreSQL. It configures the various components (e.g., `airflow-webserver`, `airflow-scheduler`, `airflow-worker`, `postgres`, `redis`) to run Airflow in a distributed environment with Celery as the executor.
+# Airflow Pipelines
 
 ### Key Parts in the Docker Compose YAML:
 
